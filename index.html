@@ -339,6 +339,9 @@
 
           var content = document.getElementById( 'input' ).value;
 
+          // Add space between name and parenthesis, fixes blank name
+          content = content.replace(/[a-z](?=\()/gi, '$& ');
+
           // Convert carriage returns into line feeds
           content = content.replace( /(\r\n|\r)/g, '\n' );
 
