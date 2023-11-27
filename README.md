@@ -2,6 +2,8 @@
 
 Check it live on [tinglify.github.io/secretsanta/](http://tinglify.github.io/secretsanta/).
 
+Original by arcanis [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/)
+
 ## License (MIT)
 
 > **Copyright © 2015 Maël Nison**
